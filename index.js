@@ -9,8 +9,9 @@ function scuberGreetingForFeet (ride){
   }
 }
 
-function ternaryCheckCity (distination) {
-  if (distination = NYC){
+function ternaryCheckCity (city) {
+  
+  if (city = NYC){
     return 'Ok, sounds good.'
   }
 }
