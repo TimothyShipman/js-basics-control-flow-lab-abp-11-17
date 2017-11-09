@@ -13,6 +13,15 @@ function ternaryCheckCity (city) {
   return city === 'NYC' ? ('Ok, sounds good.'): ('No go.');
 }
 
-function switchOnCharmFromTip (){
-  
+function switchOnCharmFromTip (tip) {
+  switch (charm) {
+    case 'generous':
+      tip = 'Thank you so much.'
+      break;
+    case expression:
+      
+      break;  
+    default:
+      
+  }
 }
