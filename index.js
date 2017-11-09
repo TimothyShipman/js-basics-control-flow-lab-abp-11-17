@@ -9,7 +9,7 @@ function scuberGreetingForFeet (ride){
   }
 }
 
-function ternaryCheckCity (city) {
+function ternaryCheckCity (destination) {
   city = 'NYC'{
     return 'Ok, sounds good.'
   }
